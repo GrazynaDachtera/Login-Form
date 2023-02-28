@@ -49,13 +49,13 @@ body {
     text-align: center;
     display: grid;
     border: none;
+    padding: 2px;
 }
 
 .forgot-password {
     font-family: "Goudy Old Style", sans-serif;
     font-size: 12px;
     cursor: pointer;
-
 }
 
 .container form .main-login {
@@ -78,6 +78,6 @@ body {
     font-family: "Goudy Old Style", sans-serif;
     font-size: 12px;
     cursor: pointer;
-    height: 25px;
+    padding: 2px;
 }
 
